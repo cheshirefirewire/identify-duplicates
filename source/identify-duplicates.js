@@ -1,12 +1,5 @@
-// class App {
-//     constructor() {
-//         this.love = "the most powerful force in the universe.";
-//     }
+class IdentifyDuplicates {
+    
+}
 
-//     run() {
-//         console.log(".love> is " + this.love);
-//         return true; 
-//     }
-// }
-
-// export default App;
+export default IdentifyDuplicates;
